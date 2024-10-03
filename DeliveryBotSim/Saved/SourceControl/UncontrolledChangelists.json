@@ -6,6 +6,12 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/CG_Ga/Documents/UnrealProjects/DeliveryBotSimulator/DeliveryBotSim/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/CG_Ga/Documents/UnrealProjects/DeliveryBotSimulator/DeliveryBotSim/Content/DeliveryBotSim/ConnerG/AI_Person.uasset",
+				"C:/Users/CG_Ga/Documents/UnrealProjects/DeliveryBotSimulator/DeliveryBotSim/Content/DeliveryBotSim/ConnerG/WalkBlendSpace.uasset",
+				"C:/Users/CG_Ga/Documents/UnrealProjects/DeliveryBotSimulator/DeliveryBotSim/Content/DeliveryBotSim/ConnerG/AP_EnemyAI.uasset",
+				"C:/Users/CG_Ga/Documents/UnrealProjects/DeliveryBotSimulator/DeliveryBotSim/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/JZ/0YWGFDCHBYIQ24OBPO7NR9.uasset",
+				"C:/Users/CG_Ga/Documents/UnrealProjects/DeliveryBotSimulator/DeliveryBotSim/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HO/WRJZM4GXZJ5ZEIF0R0SH0C.uasset",
+				"C:/Users/CG_Ga/Documents/UnrealProjects/DeliveryBotSimulator/DeliveryBotSim/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/N7/FAQ68T9S45PV16JY6UF26Z.uasset",
 				"C:/Users/justi/Documents/GitHub/DeliveryBotSimulator/DeliveryBotSim/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/justi/Documents/GitHub/DeliveryBotSimulator/DeliveryBotSim/Content/DeliveryBotSim/dbotproto.uasset",
 				"C:/Program Files/Epic Games/UE_5.3/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh_Skeleton.uasset",
