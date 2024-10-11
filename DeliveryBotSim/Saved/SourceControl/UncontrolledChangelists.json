@@ -5,6 +5,19 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/justi/Documents/GitHub/DeliveryBotSimulator/DeliveryBotSim/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/justi/Documents/GitHub/DeliveryBotSimulator/DeliveryBotSim/Content/DeliveryBotSim/ConnorBrown/ThirdPerson_UI.uasset",
+				"C:/Users/justi/Documents/GitHub/DeliveryBotSimulator/DeliveryBotSim/Content/DeliveryBotSim/Justin/WP_Waypoint.uasset",
+				"C:/Users/justi/Documents/GitHub/DeliveryBotSimulator/DeliveryBotSim/Content/DeliveryBotSim/Justin/BP_Waypoint.uasset",
+				"C:/Users/justi/Documents/GitHub/DeliveryBotSimulator/DeliveryBotSim/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/PC/JE87XB6SRSB9PTVT3GV3K8.uasset",
+				"C:/Users/justi/Documents/GitHub/DeliveryBotSimulator/DeliveryBotSim/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/5B/KJAF0UVZXH1ZWQSF13VBGB.uasset",
+				"C:/Users/justi/Documents/GitHub/DeliveryBotSimulator/DeliveryBotSim/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/justi/Documents/GitHub/DeliveryBotSimulator/DeliveryBotSim/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/JZ/0YWGFDCHBYIQ24OBPO7NR9.uasset",
+				"C:/Users/justi/Documents/GitHub/DeliveryBotSimulator/DeliveryBotSim/Content/DeliveryBotSim/ConnorBrown/TimerWidget.uasset",
+				"C:/Users/justi/Documents/GitHub/DeliveryBotSimulator/DeliveryBotSim/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/justi/Documents/GitHub/DeliveryBotSimulator/DeliveryBotSim/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset",
+				"C:/Users/justi/Documents/GitHub/DeliveryBotSimulator/DeliveryBotSim/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
+				"C:/Users/justi/Documents/GitHub/DeliveryBotSimulator/DeliveryBotSim/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER.uasset",
 				"C:/Users/conno/Documents/Unreal-Projects/DeliveryBotSimulator/DeliveryBotSim/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
 			]
 		}
